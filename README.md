@@ -35,8 +35,8 @@ This application is a C# console program designed to process PDF files by splitt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/JervisAnthony/PDFSplitterApp.git
-   cd PDFSplitterApp
+   git clone https://github.com/JervisAnthony/Splitify.git
+   cd Splitify
    ```
 
 2. **Install .NET SDK**
