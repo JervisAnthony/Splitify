@@ -1,3 +1,5 @@
+### Splitify
+
 ## PDF Splitter and Categorizer
 
 This application is a C# console program designed to process PDF files by splitting them into separate documents whenever it encounters a blank page or a title page. It leverages Azure Document Intelligence to extract text from each page, including OCR capabilities for scanned documents, and uses Azure OpenAI's GPT models to categorize each split document based on its content.
