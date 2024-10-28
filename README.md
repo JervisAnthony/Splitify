@@ -1,4 +1,4 @@
-### Splitify
+# Splitify
 
 ## PDF Splitter and Categorizer
 
